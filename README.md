@@ -24,6 +24,9 @@ Sources of these scripts
 ## SQL
 
 Teradata: BTEQ, tdsql(internal tools), python (cmd line) interfaces
-Hive
+Hive: quries and UDFs
 
 ## Tableau Tricks
+
+The general design 
+server setup tips
