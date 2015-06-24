@@ -1,14 +1,14 @@
 # scripts_utils
-useful R and Python scripts for work and research
+This is a collection of useful R and Python scripts for data science work and research.
 
 ## R scripts 
 
-Three categories:
+Three categories
 * interfaces to database (teradata, google spreadsheets, etc)
 * machine learning algorithms
 * analytics scripts
 
-Sources of these scripts:
+Sources of these scripts
 * Own work / research projects
 * Online courses
 * Online forums
@@ -16,3 +16,14 @@ Sources of these scripts:
 
 ## Python scripts
 
+* Define a class and function
+* Machine Learning and Feature Engineering Frame Work
+* Database interfaces
+* 
+
+## SQL
+
+Teradata: BTEQ, tdsql(internal tools), python (cmd line) interfaces
+Hive
+
+## Tableau Tricks
